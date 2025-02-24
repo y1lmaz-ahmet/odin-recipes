@@ -1,0 +1,11 @@
+
+.beschrijving,.ingredienten,.stappen {
+    font-size: 19px;
+}
+h2{
+    font-size: 22px;
+    font-style: italic;
+}
+li{
+    line-height: 35px;
+}
